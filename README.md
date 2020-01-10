@@ -1,0 +1,2 @@
+# shom
+Personal projects only
