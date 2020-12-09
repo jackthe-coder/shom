@@ -13,6 +13,9 @@ University Of Victoria
 
 # Projects
 
+My projects: index.html, style.css, app.js
+  To do list website
+
 
 
 ## CSC 110 
