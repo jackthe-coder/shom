@@ -4,37 +4,24 @@ You can use the [editor on GitHub](https://github.com/jackthe-coder/shom/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+"""markdown
 University Of Victoria 
 
-# Projects
+## CSC370
 
-My projects: index.html, style.css, app.js
-  To do list website
-
-
-
-## CSC 110 
+## CSC110 
 BankAccount.java
 
-## SENG 265
+## SENG265
 calprint3.py
-
 calprint4.c
-
 Calender_file
 
-## CSC 230 
+## CSC230 
 
-## CSC 421 Introduction to Artificial Intelligence
+## CSC421 Introduction to Artificial Intelligence
 game_post: 
-
 CPS_post
-
 src
 
 
